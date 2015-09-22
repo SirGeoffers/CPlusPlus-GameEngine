@@ -1,0 +1,29 @@
+﻿Build started 8/20/2015 9:19:05 PM.
+     1>Project "C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\FEO\FEO.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\\SFML-2.2\include" /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt GameStateGame.cpp
+         GameStateGame.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\x64\Debug\FEO.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\\SFML-2.2\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\x64\Debug\FEO.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\x64\Debug\FEO.lib" /MACHINE:X64 x64\Debug\Animation.obj
+         x64\Debug\Application.obj
+         x64\Debug\Component.obj
+         x64\Debug\ComponentPosition.obj
+         x64\Debug\ComponentSprite.obj
+         x64\Debug\ComponentVelocity.obj
+         x64\Debug\ECSManager.obj
+         x64\Debug\Entity.obj
+         x64\Debug\System.obj
+         x64\Debug\SystemMovement.obj
+         x64\Debug\SystemRender.obj
+         x64\Debug\GameStateGame.obj
+         x64\Debug\Main.obj
+         x64\Debug\State.obj
+         x64\Debug\StateStack.obj
+         x64\Debug\GameStateTitle.obj
+         x64\Debug\Utility.obj
+         FEO.vcxproj -> C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\x64\Debug\FEO.exe
+     1>Done Building Project "C:\Users\Jeff\Documents\Visual Studio 2013\Projects\FEO\FEO\FEO.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
