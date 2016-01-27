@@ -1,4 +1,4 @@
-# Swing Simulator
+# C++ Game Engine
 
 Game State Manager
 - Manages all game resources
